@@ -3,7 +3,6 @@ let sessions
 
 export default class UsersDAO {
   static async injectDB(conn) {
-    throw "error"
     if (users && sessions) {
       return
     }
