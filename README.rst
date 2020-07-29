@@ -1,3 +1,5 @@
+[![buddy pipeline](https://app.buddy.works/bdtechcourses/m220-mflix/pipelines/pipeline/270424/badge.svg?token=a57d83293d97d27e3428c53dcffc3e982e624d1c1b42fa2b3e316b6188205b76 "buddy pipeline")](https://app.buddy.works/bdtechcourses/m220-mflix/pipelines/pipeline/270424)
+
 =====
 Mflix
 =====
