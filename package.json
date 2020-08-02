@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon -L ./index.js",
-    "test": "jest --detectOpenHandles --passWithNoTests --coverage --coverageDirectory=output/coverage/jest",
+    "test": "jest --forceExit  --detectOpenHandles --passWithNoTests --coverage --coverageDirectory=output/coverage/jest",
     "sonar": "node sonar.js",
     "test:watch": "jest --passWithNoTests --watch",
     "changestream:update": "node test/lessons/change-updates.js",
