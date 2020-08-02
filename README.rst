@@ -3,6 +3,10 @@ Continuous Integration |ImageLink|_
 .. |ImageLink| image:: https://app.buddy.works/bdtechcourses/m220-mflix/pipelines/pipeline/270424/badge.svg?token=a57d83293d97d27e3428c53dcffc3e982e624d1c1b42fa2b3e316b6188205b76
 .. _ImageLink: https://app.buddy.works/bdtechcourses/m220-mflix/pipelines/pipeline/270424
 
+Continuous Integration Jenkins |ImageLinkJenkins|_
+
+.. |ImageLinkJenkins| image:: http://sonar-qube-bdtech.eastus.cloudapp.azure.com:8080/buildStatus/icon?job=BDTechPipeline
+.. _ImageLinkJenkins: http://sonar-qube-bdtech.eastus.cloudapp.azure.com:8080/
 
 =====
 Mflix
